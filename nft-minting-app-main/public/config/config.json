@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x96bb7Ec9F1a66FF2c17d6fBa93a744e928a2B435",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0x96bb7ec9f1a66ff2c17d6fba93a744e928a2b435",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "SuperKakiraTestNFT",
+  "SYMBOL": "SSk",
+  "MAX_SUPPLY": 50,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/superkakira",
+  "SHOW_BACKGROUND": true
+}
